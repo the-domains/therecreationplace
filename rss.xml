@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Recreation Place]]></title>
+        <description><![CDATA[The Recreation Place]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 12:59:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Recreation Place is a public non-profit gym, fitness and recreation center located on the campus of ChristChurch Presbyterian in Dalton.</p>]]></description>
+            <link>undefinedca2b8625-f0b4-4ef4-a7b8-67d72c70c825/index.html</link>
+            <guid isPermaLink="false">ca2b8625-f0b4-4ef4-a7b8-67d72c70c825</guid>
+            <pubDate>Fri, 04 Mar 2016 12:59:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
