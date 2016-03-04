@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T16:02:03.182Z'
-dateModified: '2016-03-04T16:01:45.174Z'
+datePublished: '2016-03-04T16:10:09.579Z'
+dateModified: '2016-03-04T16:10:02.273Z'
 title: Hours of Operation
 author: []
 sourcePath: _posts/2016-03-04-hours-of-operation.md
