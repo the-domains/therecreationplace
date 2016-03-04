@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Weight Room, Gymnasium, Spin Class, Common Ground Coffee Shop'
-datePublished: '2016-03-04T16:19:11.057Z'
-dateModified: '2016-03-04T16:19:06.397Z'
+datePublished: '2016-03-04T16:23:00.969Z'
+dateModified: '2016-03-04T16:22:16.646Z'
 title: Facilities
 author: []
+sourcePath: _posts/2016-03-04-facilities.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-facilities.md
-published: true
 url: facilities/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cab8325-3105-43c8-8e08-52ec99ff3f1c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaf9937c-fd15-4bb9-8f93-6f7eea66883b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fa0bc0c-950d-4c67-81b1-08acdfd4ee83.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca2b731a-c372-4c24-a600-a9e1675c5876.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3585fce2-eab0-4cbf-a4f9-db0dbf6ade28.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9835cf5b2488ca372dedd6310601ba30681d0e46.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/26b1b6e664f98e3b3557422cf8dfcd2612cf26e8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c639e1c18c6586a6901f28c9ca8c0d8d65bea46.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/912baa9393a5247efbfa41450741bce0ed756bf8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a645a71f60f182c7540b343535ec48729478f648.jpg)
