@@ -1,0 +1,28 @@
+name: The Recreation Place
+favicon: null
+layout_spectrum: 0.2866371551062912
+typography_spectrum: 0.8149061393924057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6677623526193202
+  lightness: 0.11664940416812897
+  saturation: 0.5157238622196019
+  rhythmicContrast: 0.7210973880719393
+purpose: []
