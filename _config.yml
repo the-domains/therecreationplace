@@ -2,6 +2,7 @@ name: The Recreation Place
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.69735
+title: The Rec Place
 cta:
   domain: null
   bucket: null
