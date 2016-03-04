@@ -4,8 +4,15 @@
         <description><![CDATA[The Recreation Place]]></description>
         <link>https://thegrid.ai/therecreationplace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 13:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 13:35:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/therecreationplace/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef8bbf338fe0b614a17dd842c3748e236efb4b03.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/therecreationplace/ca2b8625-f0b4-4ef4-a7b8-67d72c70c825/index.html</link>
+            <guid isPermaLink="false">ca2b8625-f0b4-4ef4-a7b8-67d72c70c825</guid>
+            <pubDate>Fri, 04 Mar 2016 13:35:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[THE RECREATION PLACE]]></title>
             <description><![CDATA[<article><h1>THE RECREATION PLACE</h1><p>YOGA AND CARDIO DANCE with Erika Mosteller Erika is certified through AFAA, the Aerobics and Fitness Association of America, and was teaching at the Bradley Wellness Center before joining The Rec Place. Erika has four years of experience teaching group exercise and loves helping others find balance, strength, stress relief, and pain relief from regular yoga practice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3182c550e1410405bbd94020239137f1ebac342f.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/therecreationplace/0274d967-c37f-49ed-a8a5-47bd5937d43c/index.html</link>
             <guid isPermaLink="false">0274d967-c37f-49ed-a8a5-47bd5937d43c</guid>
             <pubDate>Fri, 04 Mar 2016 13:30:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef8bbf338fe0b614a17dd842c3748e236efb4b03.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/therecreationplace/ca2b8625-f0b4-4ef4-a7b8-67d72c70c825/index.html</link>
-            <guid isPermaLink="false">ca2b8625-f0b4-4ef4-a7b8-67d72c70c825</guid>
-            <pubDate>Fri, 04 Mar 2016 13:34:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
