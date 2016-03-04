@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T16:10:09.579Z'
-dateModified: '2016-03-04T16:10:02.273Z'
+datePublished: '2016-03-04T16:22:57.186Z'
+dateModified: '2016-03-04T16:22:35.697Z'
 title: Hours of Operation
 author: []
 sourcePath: _posts/2016-03-04-hours-of-operation.md
