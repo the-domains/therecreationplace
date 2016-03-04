@@ -4,7 +4,7 @@
         <description><![CDATA[The Rec Place]]></description>
         <link>https://thegrid.ai/therecreationplace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 13:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 13:32:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/therecreationplace/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89917abf-602a-4495-9386-c9adefefb1fd.jpg">]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef8bbf338fe0b614a17dd842c3748e236efb4b03.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/therecreationplace/ca2b8625-f0b4-4ef4-a7b8-67d72c70c825/index.html</link>
             <guid isPermaLink="false">ca2b8625-f0b4-4ef4-a7b8-67d72c70c825</guid>
-            <pubDate>Fri, 04 Mar 2016 13:08:41 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 13:30:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
