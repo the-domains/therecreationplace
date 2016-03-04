@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Weight Room, Gymnasium, Spin Class, Common Ground Coffee Shop'
-datePublished: '2016-03-04T16:23:00.969Z'
-dateModified: '2016-03-04T16:22:16.646Z'
+datePublished: '2016-03-04T16:24:08.452Z'
+dateModified: '2016-03-04T16:23:59.675Z'
 title: Facilities
 author: []
 sourcePath: _posts/2016-03-04-facilities.md
