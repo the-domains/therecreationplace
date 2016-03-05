@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Recreation Place]]></title>
         <description><![CDATA[The Recreation Place]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/therecreationplace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 01:54:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 01:54:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/therecreationplace/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d4abc24-182d-445a-bddc-9dcbf5cd8aab.jpg">]]></description>
-            <link>undefinedca2b8625-f0b4-4ef4-a7b8-67d72c70c825/index.html</link>
+            <link>https://thegrid.ai/therecreationplace/ca2b8625-f0b4-4ef4-a7b8-67d72c70c825/index.html</link>
             <guid isPermaLink="false">ca2b8625-f0b4-4ef4-a7b8-67d72c70c825</guid>
-            <pubDate>Sat, 05 Mar 2016 01:53:51 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 01:54:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
