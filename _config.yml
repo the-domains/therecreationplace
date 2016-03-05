@@ -1,5 +1,8 @@
+name: The Recreation Place
+favicon: null
+layout_spectrum: 0.00543
+typography_spectrum: 0.50722
 title: The Recreation Place
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0.8125
-  rhythmicContrast: 0.25
   brandColors:
     - '#ffffff'
     - '#000000'
     - '#bfbfbf'
     - '#e5c230'
     - '#6f6f6f'
+  brandStrength: 0.8125
   lightness: 0.3125
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: The Recreation Place
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.50722
-layout_spectrum: 0.2956989
+  saturation: 0.375
+  rhythmicContrast: 0.25
+purpose: []
