@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T16:22:57.186Z'
-dateModified: '2016-03-04T16:22:35.697Z'
+datePublished: '2016-03-07T19:27:53.233Z'
+dateModified: '2016-03-07T19:27:43.649Z'
 title: Hours of Operation
 author: []
 sourcePath: _posts/2016-03-04-hours-of-operation.md
@@ -40,3 +40,4 @@ MONDAY to THURSDAY**
 **SUNDAY**
 
 Closed
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8cdb2f8-5511-461e-8db2-78ecd72b4f87.jpg)
