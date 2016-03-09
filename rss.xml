@@ -4,8 +4,15 @@
         <description><![CDATA[The Recreation Place]]></description>
         <link>https://thegrid.ai/therecreationplace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 15:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 15:26:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/therecreationplace/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Facilities]]></title>
+            <description><![CDATA[<article><h1>Facilities</h1><p>Weight Room, Gymnasium, Spin Class, Common Ground Coffee Shop</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26b1b6e664f98e3b3557422cf8dfcd2612cf26e8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/therecreationplace/facilities/index.html</link>
+            <guid isPermaLink="false">bc197f28-fb61-45ee-86a3-d15fbda33744</guid>
+            <pubDate>Wed, 09 Mar 2016 15:26:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Schedule]]></title>
             <description><![CDATA[<article><h1>Schedule</h1><p>Weekly class schedule</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b05c795f48035f827a60d5d6d8a40b7edf66c63.jpg"></article>]]></description>
