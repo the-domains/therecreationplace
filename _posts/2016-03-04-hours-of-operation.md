@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'REGULAR HOURS:MONDAY to THURSDAY'
-datePublished: '2016-03-09T15:30:07.607Z'
-dateModified: '2016-03-09T15:19:04.375Z'
+datePublished: '2016-03-09T15:31:36.475Z'
+dateModified: '2016-03-09T15:30:10.103Z'
 title: Hours of Operation
 author: []
 sourcePath: _posts/2016-03-04-hours-of-operation.md
@@ -22,6 +22,8 @@ url: hours-of-operation/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8cdb2f8-5511-461e-8db2-78ecd72b4f87.jpg)
+
 ********
 
 ****REGULAR HOURS:**  
@@ -40,4 +42,3 @@ MONDAY to THURSDAY**
 **SUNDAY**
 
 Closed
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8cdb2f8-5511-461e-8db2-78ecd72b4f87.jpg)
