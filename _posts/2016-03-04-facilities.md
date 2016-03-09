@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Weight Room, Gymnasium, Spin Class, Common Ground Coffee Shop'
-datePublished: '2016-03-08T16:04:17.033Z'
-dateModified: '2016-03-08T16:04:09.151Z'
+datePublished: '2016-03-09T15:26:16.176Z'
+dateModified: '2016-03-09T15:17:46.288Z'
 title: Facilities
 author: []
 sourcePath: _posts/2016-03-04-facilities.md
@@ -19,12 +19,11 @@ publisher:
   url: null
   favicon: null
 url: facilities/index.html
-_type: WebPage
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc900654-0465-49b9-b11e-de870a533d71.jpg)
-
 Weight Room
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc900654-0465-49b9-b11e-de870a533d71.jpg)
 
 Gymnasium
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/26b1b6e664f98e3b3557422cf8dfcd2612cf26e8.jpg)
@@ -34,4 +33,6 @@ Fitness Studio
 
 Spin Room
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/912baa9393a5247efbfa41450741bce0ed756bf8.jpg)
+
+Common Ground Coffee Shop
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/777ef706-0fdf-460e-a7c6-6e4f75cdec81.jpg)
