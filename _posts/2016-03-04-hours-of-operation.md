@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'REGULAR HOURS:MONDAY to THURSDAY'
-datePublished: '2016-03-09T15:49:52.790Z'
-dateModified: '2016-03-09T15:49:02.315Z'
+datePublished: '2016-03-29T00:39:36.205Z'
+dateModified: '2016-03-29T00:39:29.265Z'
 title: Hours of Operation
 author: []
 sourcePath: _posts/2016-03-04-hours-of-operation.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: hours-of-operation/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bac3cd2712b9d874b2d50f24a50485ac7cd1e17a.jpg)
