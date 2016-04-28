@@ -4,7 +4,7 @@
         <description><![CDATA[The Recreation Place]]></description>
         <link>https://thegrid.ai/therecreationplace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 19:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 19:06:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/therecreationplace/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/therecreationplace/location/index.html</link>
             <guid isPermaLink="false">238ec593-b217-49cc-81dc-84f59868cf0f</guid>
             <pubDate>Thu, 28 Apr 2016 19:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schedule]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b05c795f48035f827a60d5d6d8a40b7edf66c63.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/therecreationplace/schedule/index.html</link>
-            <guid isPermaLink="false">2c24bca9-917c-4833-b6eb-233e068fac77</guid>
-            <pubDate>Tue, 29 Mar 2016 00:38:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
