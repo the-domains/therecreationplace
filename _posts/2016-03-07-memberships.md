@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Rates
-datePublished: '2016-03-07T19:16:59.058Z'
-dateModified: '2016-03-07T19:16:35.395Z'
+description: 'Updated January 2015:'
+datePublished: '2016-04-28T18:59:53.013Z'
+dateModified: '2016-03-18T12:57:35.025Z'
 title: Memberships
 author: []
+sourcePath: _posts/2016-03-07-memberships.md
+published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
-sourcePath: _posts/2016-03-07-memberships.md
-published: true
 url: memberships/index.html
 _type: WebPage
 
