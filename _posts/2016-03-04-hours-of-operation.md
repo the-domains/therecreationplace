@@ -3,12 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'REGULAR HOURS:MONDAY to THURSDAY'
-datePublished: '2016-03-29T00:39:36.205Z'
-dateModified: '2016-03-29T00:39:29.265Z'
-title: Hours of Operation
+description: ''
+datePublished: '2016-04-28T19:06:08.315Z'
+dateModified: '2016-04-28T18:59:08.975Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-04-hours-of-operation.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: hours-of-operation/index.html
 _type: WebPage
 
