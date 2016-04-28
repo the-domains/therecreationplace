@@ -1,7 +1,7 @@
 name: The Recreation Place
 favicon: null
-layout_spectrum: 0.0009
-typography_spectrum: 0.77208
+layout_spectrum: 0.28219
+typography_spectrum: 0.33995
 title: The Recreation Place
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#bfbfbf'
     - '#e5c230'
     - '#6f6f6f'
-  brandStrength: 0.8125
+  brandStrength: 0.5
   lightness: 0.1875
   saturation: 0.5
   rhythmicContrast: 0.5
