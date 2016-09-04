@@ -5,18 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-28T19:06:08.315Z'
-dateModified: '2016-04-28T18:59:08.975Z'
+datePublished: '2016-09-01T13:51:29.571Z'
+dateModified: '2016-09-01T13:51:29.231Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-04-hours-of-operation.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
 starred: false
 url: hours-of-operation/index.html
 _type: WebPage
