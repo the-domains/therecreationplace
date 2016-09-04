@@ -1,29 +1,26 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-09-01T13:51:29.571Z'
-dateModified: '2016-09-01T13:51:29.231Z'
-title: ''
-author: []
+datePublished: '2016-09-01T14:06:19.427Z'
 sourcePath: _posts/2016-03-04-hours-of-operation.md
+inFeed: false
 authors: []
-publisher: {}
+hasPage: true
+keywords: []
+author: []
 via: {}
+dateModified: '2016-09-01T14:06:18.768Z'
+title: ''
+publisher: {}
+description: 'REGULAR HOURS:'
+inLanguage: null
+inNav: true
 starred: false
 url: hours-of-operation/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bac3cd2712b9d874b2d50f24a50485ac7cd1e17a.jpg)
+**REGULAR HOURS:**
 
-********
-
-****REGULAR HOURS:**  
-MONDAY to THURSDAY**
+**MONDAY to THURSDAY**
 
 5:30am-9:00pm
 
