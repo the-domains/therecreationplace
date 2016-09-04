@@ -56,4 +56,5 @@ collections:
     permalink:
       path: '/:title/'
 title: ''
+description: Radically Empowered Community
 purpose: []
