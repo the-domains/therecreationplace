@@ -55,6 +55,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: The Recreation Place
 description: Radically Empowered Community
 purpose: []
