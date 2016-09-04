@@ -1,4 +1,3 @@
-layout_spectrum: 0.025588784366846085
 typography_spectrum: 0.36060539446771145
 color:
   brandColors:
@@ -11,9 +10,25 @@ color:
   lightness: 0.6356753725558519
   saturation: 0.20669781672768295
   rhythmicContrast: 0.8957685886416584
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.025588784366846085
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 name: The Recreation Place
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Memberships
+    id: 7c9573ac-0b31-4fac-8e1e-120d20644779
+    type: content
 favicon: null
-title: The Recreation Place
 collections:
   - index:
       path: /
@@ -26,16 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: The Recreation Place
 purpose: []
