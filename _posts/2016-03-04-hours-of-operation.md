@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T14:06:19.427Z'
+datePublished: '2016-09-01T14:10:52.889Z'
 sourcePath: _posts/2016-03-04-hours-of-operation.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T14:06:18.768Z'
+dateModified: '2016-09-01T14:08:22.505Z'
 title: ''
 publisher: {}
 description: 'REGULAR HOURS:'
