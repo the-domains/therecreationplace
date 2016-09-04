@@ -31,6 +31,9 @@ navigation:
   - name: Hours of Operation
     id: 7afa53bd-898f-472f-82d6-f362024ad5ca
     type: content
+  - name: About Us
+    id: ca2b8625-f0b4-4ef4-a7b8-67d72c70c825
+    type: content
 favicon: null
 collections:
   - index:
