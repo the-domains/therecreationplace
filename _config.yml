@@ -1,4 +1,3 @@
-layout_spectrum: 0.4530410412698984
 typography_spectrum: 0.438054041005671
 color:
   brandColors:
@@ -15,10 +14,15 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4530410412698984
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  email: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d550eb3-dedb-4830-9086-f8f41bbf527a.png
 name: The Recreation Place
 cta:
   domain: null
@@ -37,7 +41,8 @@ navigation:
   - name: Location
     id: 238ec593-b217-49cc-81dc-84f59868cf0f
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e403b26f-fd1f-4240-82f4-4831bb81e900.ico
 collections:
   - index:
       path: /
@@ -50,5 +55,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: The Recreation Place
+title: Radically Empowered Community
 purpose: []
