@@ -41,6 +41,9 @@ navigation:
   - name: Location
     id: 238ec593-b217-49cc-81dc-84f59868cf0f
     type: content
+  - name: Schedule
+    id: 2c24bca9-917c-4833-b6eb-233e068fac77
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e403b26f-fd1f-4240-82f4-4831bb81e900.ico
 collections:
