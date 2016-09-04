@@ -28,6 +28,9 @@ navigation:
   - name: Memberships
     id: 7c9573ac-0b31-4fac-8e1e-120d20644779
     type: content
+  - name: Hours of Operation
+    id: 7afa53bd-898f-472f-82d6-f362024ad5ca
+    type: content
 favicon: null
 collections:
   - index:
