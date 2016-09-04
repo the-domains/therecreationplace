@@ -28,11 +28,11 @@ navigation:
   - name: About Us
     id: ca2b8625-f0b4-4ef4-a7b8-67d72c70c825
     type: content
-  - name: Memberships
-    id: 7c9573ac-0b31-4fac-8e1e-120d20644779
-    type: content
   - name: Hours of Operation
     id: 7afa53bd-898f-472f-82d6-f362024ad5ca
+    type: content
+  - name: Memberships
+    id: 7c9573ac-0b31-4fac-8e1e-120d20644779
     type: content
   - name: Location
     id: 238ec593-b217-49cc-81dc-84f59868cf0f
